@@ -9,7 +9,7 @@ namespace Aula_List
         {
             List<string> list = new List<string>();
 
-            list.Add("Maria");
+            list.Add("Sofia");
             list.Add("Alex");
             list.Add("Bob");
             list.Add("Anna");
