@@ -15,6 +15,8 @@ namespace Aula_List
             list.Add("Anna");
             list.Insert(2, "Marco");
 
+            Console.WriteLine("Bom dia");
+
             foreach (string obj in list)
             {
                 Console.WriteLine(obj);
